@@ -403,7 +403,7 @@ def main():
 	print(" \x1b[1;92m     [1] START CLONING\n")
 	os.system('echo -e "❥━──➸➽❥❂❥━──➸➽❥━──➸➽❥❂❥━──➸➽"| lolcat')
 	print("")
-	os.system('xdg-open https://www.facebook.com/OFFICIAL.ACCOUNT.OF.LEGEND ')
+	os.system('xdg-open https://www.facebook.com/Raghav.Real.Ones.Official.id ')
 	log_sel()
 def log_sel():
 	sel = raw_input(" Choose an option❥━──➸: ")
